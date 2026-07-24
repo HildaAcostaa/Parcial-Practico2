@@ -29,7 +29,6 @@ itech_contrataciones/
 │
 ├── index.php                        # Router principal (patrón PRG)
 ├── setup.php                        # Utilidad de verificación inicial
-├── .htaccess                        # Configuración Apache
 │
 ├── sql/
 │   └── database.sql                 # Script SQL completo
